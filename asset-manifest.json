@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1595511.css",
+    "main.js": "/static/js/main.45d6c97f.js",
+    "static/media/person.png": "/static/media/person.843f8f38074ca7c240be.png",
+    "static/media/Mask Group.png": "/static/media/Mask Group.79cdf39c869563f98eba.png",
+    "static/media/inst.svg": "/static/media/inst.535ae6cfe46ec804e571276cb24a519a.svg",
+    "static/media/twitter.svg": "/static/media/twitter.04116d816f5751f54173da3f93a72c15.svg",
+    "static/media/logo.svg": "/static/media/logo.5ae33ba183aacf03ccb428fbf433933d.svg",
+    "index.html": "/index.html",
+    "static/media/search.svg": "/static/media/search.ba163813dceef88c28c5041ee5250573.svg",
+    "static/media/faceb.svg": "/static/media/faceb.59144743888eff9fcea6567d7565a2ef.svg",
+    "main.c1595511.css.map": "/static/css/main.c1595511.css.map",
+    "main.45d6c97f.js.map": "/static/js/main.45d6c97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1595511.css",
+    "static/js/main.45d6c97f.js"
+  ]
+}
